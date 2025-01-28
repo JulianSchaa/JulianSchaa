@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ytMAjWAJxm4MJN-wQsIq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="110" width="400" height="340" as="geometry" />
+          <mxGeometry x="520" y="40" width="400" height="410" as="geometry" />
         </mxCell>
         <mxCell id="ytMAjWAJxm4MJN-wQsIq-3" value="Anwendung" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="130" width="360" height="60" as="geometry" />
+          <mxGeometry x="540" y="70" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ytMAjWAJxm4MJN-wQsIq-5" value="RTOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="180" height="60" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="ytMAjWAJxm4MJN-wQsIq-15" value="Bare Metal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ytMAjWAJxm4MJN-wQsIq-16" value="Middleware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
